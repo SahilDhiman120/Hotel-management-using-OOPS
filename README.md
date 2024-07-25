@@ -1,0 +1,1 @@
+The Hotel Management System is a Java-based application designed to streamline the management of hotel operations. This system helps hotel staff efficiently handle reservations, check-ins, check-outs, and manage guest information.
